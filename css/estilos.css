@@ -1,4 +1,6 @@
-@import url(./flexbox.css);
+@import url(flexbox/header.css);
+@import url(flexbox/footer.css);
+@import url(flexbox/higher-section.css);
 *,
 *::before,
 *::after {
